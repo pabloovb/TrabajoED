@@ -1,8 +1,42 @@
-# TrabajoED
-# Cristiano Ronaldo dos Santos Aveiro (Funchal, Madeira; 5 de febrero de 1985), conocido como Cristiano Ronaldo, es un futbolista portugués. Juega como extremo izquierdo o delantero y su equipo actual es el Al-Nassr F. C. de la Liga Profesional Saudí.18​ Es internacional absoluto con la selección de Portugal, de la cual es capitán, máximo goleador histórico y jugador con más presencias con 205 partidos, logro alcanzado en las eliminatorias para la Eurocopa 2024, reconocido por el Libro Guinness de los récords.19​
+# Cristiano Ronaldo dos Santos Aveiro
 
-# Considerado con frecuencia el mejor y más completo futbolista,20​ así como el mayor goleador del mundo,21​ además de uno de los mejores de todos los tiempos;n 3​22​ es uno de los futbolistas más laureados de la historia, habiendo ganado, entre otras distinciones, cinco veces el Balón de Oro, cinco premios de la FIFA al mejor jugador del mundo y cuatro Botas de Oro. En 2020, tuvo el honor de ser elegido el mejor Jugador del Siglo xxi en la gala de los Globe Soccer Awards,23​24​ convirtiéndose en el primer futbolista europeo y el primer portugués en recibirlo, además de ser incluido en el Dream Team del Balón de Oro.25​
+![Cristiano Ronaldo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cristiano_Ronaldo_playing_for_Al_Nassr_FC_against_Persepolis%2C_September_2023_%28cropped%29.jpg/330px-Cristiano_Ronaldo_playing_for_Al_Nassr_FC_against_Persepolis%2C_September_2023_%28cropped%29.jpg)
 
-# Identificado habitualmente en los medios de comunicación con el numerónimo CR7,n 4​26​ es, con 863 goles, el máximo goleador en la historia del fútbol profesional,27​28​ y con 450,29​ el máximo goleador histórico del Real Madrid Club de Fútbol,n 5​30​ consiguiéndolo en las nueve temporadas que jugó en este club. Es además, según los portales expertos en estadísticas históricas de la RSSSF y la IFFHS, el tercer máximo goleador en los campeonatos de Primera División de Europa, con 498 goles —veintisiete goles más a nivel mundial para un total de 527 goles—,31​ siendo estos datos reconocidos por la UEFA y la FIFA.n 6​32​33​
+Cristiano Ronaldo dos Santos Aveiro, conocido como Cristiano Ronaldo, es un futbolista portugués nacido el 5 de febrero de 1985 en Funchal, Madeira. Juega como extremo izquierdo o delantero y actualmente forma parte del Al-Nassr F. C. de la Liga Profesional Saudí.
 
-# A lo largo de su carrera profesional, ha conseguido batir diversos récords. Entre ellos, se destacan ser el primer jugador que consiguió ganar cuatro Botas de Oro, el primer jugador en ganar el Premio Puskás, ser el segundo futbolista más laureado del Balón de Oro (5), ser el primero en ganar el premio The Best FIFA —y el que más lo ha logrado con dos junto a Robert Lewandowski y Lionel Messi—, ser el jugador que más veces ha ganado el Premio UEFA al Mejor Jugador en Europa, con tres títulos,34​ ser el máximo goleador histórico de la selección portuguesa (128), el máximo goleador mundial a nivel de selecciones35​ (en 2021, ingresando en el Guinness World Records),36​ y ser el máximo goleador histórico de la Liga de Campeones (141) contando la fase previa,37​ el jugador con más partidos (187), más asistencias (42),38​ competición en la que también posee las marcas de más goles en una edición del torneo —17 goles en 11 partidos (2013-14)—, de más goles en una fase de grupos del torneo —11 goles en seis partidos (2015-16)— y de más veces máximo goleador del torneo con siete ediciones. Es, además, el madridista que menos partidos necesitó (92) para alcanzar los cien goles en el campeonato nacional de Liga y el jugador que menos partidos necesitó (140) para llegar a 150 goles en la historia de la Liga,39​40​ el primer futbolista en la historia de la competición que consiguió marcarle a todos los equipos a los que se enfrentó en una temporada,41​ el único futbolista capaz de marcar en seis Clásicos consecutivos,42​ o el único en anotar en seis visitas consecutivas al Camp Nou, estadio de máxima rivalidad para los blancos.43​
+## Trayectoria
+
+Inició su carrera en el Sporting Club de Portugal antes de unirse al Manchester United en 2003, donde ganó numerosos títulos, incluyendo tres Premier League y una Liga de Campeones. Luego, protagonizó un traspaso récord al Real Madrid, donde se convirtió en el máximo goleador histórico del club.
+
+En 2018, se unió a la Juventus y posteriormente regresó al Manchester United en 2021. A lo largo de su carrera, ha ganado múltiples premios, incluyendo cinco Balones de Oro y cinco premios de la FIFA al mejor jugador del mundo.
+
+## Logros Destacados
+
+- Máximo goleador en la historia del fútbol profesional con 863 goles.
+- Máximo goleador histórico del Real Madrid con 450 goles.
+- Tercer máximo goleador en los campeonatos de Primera División de Europa con 498 goles.
+- Ganador de cinco Botas de Oro y cuatro Balones de Oro.
+
+## Récords
+
+- Primer jugador en ganar cuatro Botas de Oro.
+- Máximo goleador histórico de la selección portuguesa con 128 goles.
+- Máximo goleador mundial a nivel de selecciones (en 2021, Guinness World Records).
+- Máximo goleador histórico de la Liga de Campeones con 141 goles.
+
+## Reconocimientos
+
+- Elegido el mejor Jugador del Siglo XXI en los Globe Soccer Awards en 2020.
+- Gran Oficial de la Orden del Infante Don Enrique desde 2014.
+
+## Estadísticas Destacadas
+
+- 200 partidos con la selección portuguesa.
+- Ganador de la Eurocopa 2016 y la Liga de Naciones 2018-19.
+
+## Legado y Popularidad
+
+- Atleta mejor pagado del mundo en 2016 y 2017 según Forbes.
+- Figura mediática y uno de los atletas más comerciales y famosos del mundo.
+
+Cristiano Ronaldo es una leyenda del fútbol, reconocido por su impacto tanto en el campo como fuera de él.
